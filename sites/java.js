@@ -31,12 +31,12 @@ function page()
     "<div id='pic4' class='pic'><a href='../pics/FootSquash20.png' target='_blank'><img class='img_small' src='../pics/FootSquash20.png'></a><br><br>Clue to my butt - Foot Squash.</div>"+
     "<div id='pic5' class='pic'><a href='../pics/FootSquash21.png' target='_blank'><img class='img_small' src='../pics/FootSquash21.png'></a><br><br>Clue to my toe - Foot Squash.</div>"+
     "<div id='pic6' class='pic'><a href='../pics/FootSquash23.png' target='_blank'><img class='img_small' src='../pics/FootSquash23.png'></a><br><br>Tiny climbs on my foot - Foot Squash.</div>"+
-    "<div id='pic7' class='pic'><a href='../pics/FootSquash24.jng' target='_blank'><img class='img_small' src='../pics/FootSquash24.jng'></a><br><br>Entrance to jeans - Foot Squash.</div>"+
+    "<div id='pic7' class='pic'><a href='../pics/FootSquash24.jpg' target='_blank'><img class='img_small' src='../pics/FootSquash24.jpg'></a><br><br>Entrance to jeans - Foot Squash.</div>"+
     "<div id='pic8' class='pic'><a href='../pics/FootSquash25.png' target='_blank'><img class='img_small' src='../pics/FootSquash25.png'></a><br><br>Fun has begun - Foot Squash.</div>"
 
     let page4 = "<div id='name_page'>Page: 4</div>"+
-    "<div id='pic1' class='pic'><a href='../pics/FootSquash26.jng' target='_blank'><img class='img_small' src='../pics/FootSquash26.jng'></a><br><br>Fun has begun(Stomping ending) - Foot Squash.</div>"+
-    "<div id='pic2' class='pic'><a href='../pics/FootSquash28.jng' target='_blank'><img class='img_small' src='../pics/FootSquash28.jng'></a><br><br>Fun has begun(Sitting ending) - Foot Squash.</div>";
+    "<div id='pic1' class='pic'><a href='../pics/FootSquash26.jpg' target='_blank'><img class='img_small' src='../pics/FootSquash26.jpg'></a><br><br>Fun has begun(Stomping ending) - Foot Squash.</div>"+
+    "<div id='pic2' class='pic'><a href='../pics/FootSquash28.jpg' target='_blank'><img class='img_small' src='../pics/FootSquash28.jpg'></a><br><br>Fun has begun(Sitting ending) - Foot Squash.</div>";
 
     if(pages == "Page 1")
     {
