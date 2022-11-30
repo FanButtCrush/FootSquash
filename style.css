@@ -1,0 +1,69 @@
+body
+{
+    background-image: url(bgimage/bghome.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#title
+{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 40px;
+    text-shadow: black 0px 5px 5px;
+    letter-spacing: 5px;
+    font-weight: bold;
+}
+
+#welcome
+{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+    text-shadow: black 0px 5px 5px;
+}
+
+#button
+{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.button
+{
+    font-size: 25px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    box-shadow: black 0px 5px 5px;
+    background-color: rgb(150, 150, 150);
+    padding: 10px;
+    border-radius: 20px;
+    margin-right: 10px;
+    text-shadow: black 0px 5px 5px;
+}
+
+.button:hover
+{
+    background-color: rgb(180, 180, 180);
+}
+
+.button:active
+{
+    background-color: rgb(120, 120, 120);
+}
+
+#desc
+{
+    text-align: center;
+    color: white;
+    position: fixed;
+    bottom: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: black 0px 5px 5px;
+    font-size: 20px;
+}
